@@ -19,9 +19,9 @@
 
 <p>
 
-### - 🔭 I’m currently working as tests automation analist
-### - 🌱 I’m currently learning about Frontend development
-### - :dog: :cat: I love pets and the most part of my own projects is about their :sweat_smile:
+#### - 🔭 I’m currently working as tests automation analist
+#### - 🌱 I’m currently learning about Frontend development
+#### - :dog: :cat: I love pets and the most part of my own projects is about their :sweat_smile:
 
 </p>
 <br>
@@ -55,19 +55,19 @@
 
 <h2 style="font-weight:bold"> Analytics </h2>
 <br>
-<div style="display:flex">
+<div>
 
-   <div >
+   <a href="#">
 
-   <img  src="https://github-readme-stats-lime-nine.vercel.app/api?username=beatrizartimundo&show_icons=true&theme=jolly ">
+   <img align="center" src="https://github-readme-stats-lime-nine.vercel.app/api?username=beatrizartimundo&show_icons=true&theme=jolly ">
 
-   </div>
-   <div >
-
-   <img width ="412" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizartimundo&layout=compact&&theme=jolly">
+   </a>
    
+   <a href="#">
 
-   </div>
+   <img  align="center" width ="412" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizartimundo&layout=compact&&theme=jolly">
+   
+   </a>
 
 
 
