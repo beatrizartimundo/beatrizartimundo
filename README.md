@@ -15,21 +15,21 @@
 </a>   
 
 </div>
-<br>
+<br/>
 
 <p>
 
-#### - 🔭 I’m currently working as tests automation analist
-#### - 🌱 I’m currently learning about Frontend development
-#### - :dog: :cat: I love pets and the most part of my own projects is about their :sweat_smile:
+####  🔭 I'm currently working as test automation analyst
+#### 🌱 I’m currently learning about Frontend development
+####  :dog: :cat: I love pets and the most part of my own projects is about them :sweat_smile:
 
 </p>
-<br>
+<br/>
 
 <div>
 
 <h2 style="font-weight:bold"> Languages & tools </h2>
-<br>
+<br/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
@@ -49,33 +49,30 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 </div>
-<br>
+<br/>
 
 
 
 <h2 style="font-weight:bold"> Analytics </h2>
-<br>
-<div>
+<br/>
+
 
    <a href="#">
 
    <img align="center" src="https://github-readme-stats-lime-nine.vercel.app/api?username=beatrizartimundo&show_icons=true&theme=jolly ">
 
    </a>
-   
+
    <a href="#">
 
    <img  align="center" width ="412" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizartimundo&layout=compact&&theme=jolly">
    
    </a>
 
-
-
-
-</div>
-<br>
-<div>
+<br/>
+<br/>
+<p>
     If you want to use this automatic status check : <a href="https://github.com/anuraghazra/github-readme-stats">
      Anurag's GitHub stats </a>
-</div>
+</p>
 
