@@ -6,7 +6,7 @@
 **beatrizartimundo/beatrizartimundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<a href="beatriz.artimundo@gmail.com">
+<a href="mailto:beatriz.artimundo@gmail.com">
    <img width ="80" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -57,15 +57,11 @@
 <br/>
 
 
-   <a href="#">
+   <a href="https://github.com/beatrizartimundo">
 
-   <img align="center" src="https://github-readme-stats-lime-nine.vercel.app/api?username=beatrizartimundo&show_icons=true&theme=jolly ">
+   <img height="150em" src="https://github-readme-stats-lime-nine.vercel.app/api?username=beatrizartimundo&show_icons=true&theme=jolly " />
 
-   </a>
-
-   <a href="#">
-
-   <img  align="center" width ="412" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizartimundo&layout=compact&&theme=jolly">
+   <img  height="150em" width ="412" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizartimundo&layout=compact&&theme=jolly" />
    
    </a>
 
