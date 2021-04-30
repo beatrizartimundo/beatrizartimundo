@@ -59,16 +59,16 @@
 
    <a href="https://github.com/beatrizartimundo">
 
-   <img height="150em" src="https://github-readme-stats-lime-nine.vercel.app/api?username=beatrizartimundo&show_icons=true&theme=jolly " />
+   <img height="160em" src="https://github-readme-stats-lime-nine.vercel.app/api?username=beatrizartimundo&show_icons=true&theme=jolly " />
 
-   <img  height="150em" width ="412" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizartimundo&layout=compact&&theme=jolly" />
+   <img  height="160em" width ="412" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizartimundo&layout=compact&&theme=jolly" />
    
    </a>
 
 <br/>
 <br/>
-<p>
+<h6>
     If you want to use this automatic status check : <a href="https://github.com/anuraghazra/github-readme-stats">
      Anurag's GitHub stats </a>
-</p>
+</h6>
 
