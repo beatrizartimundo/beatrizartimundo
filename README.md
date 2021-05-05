@@ -6,12 +6,12 @@
 **beatrizartimundo/beatrizartimundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<a href="mailto:beatriz.artimundo@gmail.com">
-   <img width ="80" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="#">
+   <img width ="80" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="beatriz.artimundo@gmail.com"/>
 </a>
 
 <a href="https://www.linkedin.com/in/beatriz-artimundo/">
-   <img width ="80" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   <img width ="80" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/beatriz-artimundo/">
 </a>   
 
 </div>
@@ -21,7 +21,7 @@
 
 ####  🔭 I'm currently working as test automation analyst
 #### 🌱 I’m currently learning about Frontend development
-####  :dog: :cat: I love pets and the most part of my own projects is about them :sweat_smile:
+####  :dog: :cat: I love pets and the most part of my projects is about them :sweat_smile:
 
 </p>
 <br/>
