@@ -19,8 +19,8 @@
 
 <p>
 
-####  🔭 I'm currently working as test automation analyst
-#### 🌱 I’m currently learning about Frontend development
+####  🔭 I'm working as frontend developer
+#### 🌱 I’m learning about frontend and tests
 ####  :dog: :cat: I love pets and the most part of my projects is about them :sweat_smile:
 
 </p>
@@ -44,8 +44,12 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 
 
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
-
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+   
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+   
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+   
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 </div>
