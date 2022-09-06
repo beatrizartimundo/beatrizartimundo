@@ -63,7 +63,7 @@
 
    <a href="https://github.com/beatrizartimundo">
 
-   <img height="160em" src="https://github-readme-stats-lime-nine.vercel.app/api?username=beatrizartimundo&show_icons=true&theme=jolly " />
+   <img height="160em" src="https://github-readme-stats-lime-nine.vercel.app/api?username=beatrizartimundo&show_icons=true&theme=jolly" />
 
    <img  height="160em" width ="412" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizartimundo&layout=compact&&theme=jolly" />
    
