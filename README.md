@@ -20,7 +20,7 @@
 <p>
 
 ####  🔭 I'm working as frontend developer
-#### 🌱 I’m learning about react, cypress and jest.
+#### 🌱 I’m learning about express and graphQL.
 ####  :dog: :cat: I love pets and the most part of my projects is about them :sweat_smile:
 
 </p>
